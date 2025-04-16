@@ -37,6 +37,5 @@ class WeatherViewModel: ObservableObject {
 - API opensource de [OpenWeatherMap](https://openweathermap.org/api)
 
 ## Interface
-<img src="Screenshoot/Screenshot-1.png" width="30%" height="30%" align="right">
-
 <img src="Screenshoot/Screenshot-2.png" width="30%" height="30%" align="right">
+<img src="Screenshoot/Screenshot-1.png" width="30%" height="30%" align="left">
