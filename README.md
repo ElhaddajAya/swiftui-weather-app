@@ -38,4 +38,4 @@ class WeatherViewModel: ObservableObject {
 
 ## Interface
 <img src="Screenshoot/Screenshot-1.png" width="30%" height="30%" align="left">
-<img src="Screenshoot/Screenshot-2.png" width="30%" height="30%" align="left">
+<img src="Screenshoot/Screenshot-2.png" width="30%" height="30%" align="bottom">
