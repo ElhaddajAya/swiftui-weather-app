@@ -21,13 +21,11 @@
 3. Remplacez `YOURAPIKEY` par votre clé API Openweathermap valide dans `OpenweathermapAPIClient.swift`
 ```swift
 class OpenweathermapClient {
-    ```
     private let apiKey = "YOURAPIKEY"
 ```
 4. Remplacez `cityId` par l'ID de la ville que vous souhaitez utiliser dans `WeatherViewModel.swift`. Vous pouvez télécharger la liste des villes au format JSON [ici](http://bulk.openweathermap.org/sample/). Dans notre projet, la ville est **Rabat**.
 ```swift
 class WeatherViewModel: ObservableObject {
-    ```
     private let cityId = "2538475"
 ```
 5. Lancez le simulateur
