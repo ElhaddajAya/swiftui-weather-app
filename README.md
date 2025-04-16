@@ -1,5 +1,4 @@
 # Application météo iOS avec SwiftUI - Aya EL HADDAJ
-<div style="width: 1000px; height 600px;"><img src="Screenshoot/Screenshoot-1.png" width="30%" height="30%" align="right"></div>
 
 ## Aperçu
 `iOS WeatherApp` est une reproduction du design de l'`Application Météo d'Apple` qui utilise [l'API Openweathermap](https://openweathermap.org/api) et est construite avec SwiftUI. Les fonctionnalités de cette application sont similaires à celles de l'application météo d'Apple, comme l'obtention de la météo actuelle et ses détails, les prévisions météo horaires et les prévisions quotidiennes. Les détails ne sont pas entièrement identiques en raison des fonctionnalités limitées du plan gratuit de l'API Openweathermap.
